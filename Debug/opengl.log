@@ -1,0 +1,111 @@
+﻿  main.cpp
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(139): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(148): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(169): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(187): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(189): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(203): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(213): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(222): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(223): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(233): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(243): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(260): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(261): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(263): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(274): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(279): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(283): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(284): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(285): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(296): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(297): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(298): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(299): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(300): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(308): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(309): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(310): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(311): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(312): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(321): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(332): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(334): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(340): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(341): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(348): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(350): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(364): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(402): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(404): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(411): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(416): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(418): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(423): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(425): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(426): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(431): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(433): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(437): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(439): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(443): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(445): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(473): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(473): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(475): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(475): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(477): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(477): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(508): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(509): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(531): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(548): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(658): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(659): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(661): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(662): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(665): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(668): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(753): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(771): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(789): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(807): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(825): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(894): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(897): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(903): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(906): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(912): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(915): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(921): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(924): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(930): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(933): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(939): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(942): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(948): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(951): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(957): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(960): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1064): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1071): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1079): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1086): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\khatere tajfar\documents\visual studio 2015\projects\opengl\opengl\main.cpp(1135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  opengl.vcxproj -> C:\Users\Khatere Tajfar\documents\visual studio 2015\Projects\opengl\Debug\opengl.exe
+  opengl.vcxproj -> C:\Users\Khatere Tajfar\documents\visual studio 2015\Projects\opengl\Debug\opengl.pdb (Partial PDB)
